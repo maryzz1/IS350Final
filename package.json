@@ -1,0 +1,20 @@
+{
+  "name": "is350final",
+  "version": "14.15.0",
+  "description": "Simple NodeJS Web App",
+  "main": "home.js",
+  "scripts": {
+    "start": "node home.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maryzz1/IS350Final.git"
+  },
+  "author": "Mary Zimbal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maryzz1/IS350Final/issues"
+  },
+  "homepage": "https://github.com/maryzz1/IS350Final#readme"
+}
